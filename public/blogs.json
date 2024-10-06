@@ -1,0 +1,54 @@
+[
+    {
+        "id": 12345,
+        "cover_img": "https://i.ibb.co/v364qGY/4.jpg",
+        "title": "Journey into the Unknown",
+        "author": "Emily Smith",
+        "author_img": "https://i.ibb.co/YT3rdVz/1.jpg",
+        "posted_date": "2024-06-15",
+        "reading_time": 10,
+        "hashtags": ["Adventure", "Exploration", "Discovery"]
+      },
+      {
+        "id": 98765,
+        "cover_img": "https://i.ibb.co/dtwKMfM/1.jpg",
+        "title": "Secrets of the Cosmos",
+        "author": "John Doe",
+        "author_img": "https://i.ibb.co/YT3rdVz/1.jpg",
+        "posted_date": "2024-06-17",
+        "reading_time": 8,
+        "hashtags": ["Space", "Astronomy", "Galaxies"]
+      },
+      {
+        "id": 24680,
+        "cover_img": "https://i.ibb.co/qBXp2z4/2.jpg",
+        "title": "Cooking Adventures: From Kitchen to Plate",
+        "author": "Samantha Brown",
+        "author_img": "https://i.ibb.co/YT3rdVz/1.jpg",
+        "posted_date": "2024-06-14",
+        "reading_time": 15,
+        "hashtags": ["Cooking", "Recipes", "Foodie"]
+      },
+      {
+        "id": 13579,
+        "cover_img": "https://i.ibb.co/LRh1Dky/3.jpg",
+        "title": "Tech Trends: Future Innovations",
+        "author": "Michael Green",
+        "author_img": "https://i.ibb.co/YT3rdVz/1.jpg",
+        "posted_date": "2024-06-16",
+        "reading_time": 22,
+        "hashtags": ["Technology", "Innovation", "Future"]
+      },
+      {
+        "id": 55555,
+        "cover_img": "https://i.ibb.co/LRh1Dky/3.jpg",
+        "title": "Artistry in Motion: Dance Through History",
+        "author": "Sophia Lee",
+        "author_img": "https://i.ibb.co/YT3rdVz/1.jpg",
+        "posted_date": "2024-06-18",
+        "reading_time": 7,
+        "hashtags": ["Dance", "Art", "Culture"]
+      }
+            
+                  
+]
